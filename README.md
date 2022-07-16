@@ -1,7 +1,7 @@
 # To-Do-list
 
 ## About The Website
-This is a simple Blockchain web application to save Your daily tasks in order not to miss anything.
+This is a simple Blockchain web application to save your daily tasks in order not to miss anything.
 
 ## Features
 
