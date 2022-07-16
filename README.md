@@ -20,7 +20,7 @@ This is a simple Blockchain web application to save Your daily tasks in order no
 ### Tech Stack Used
 * Solidity
 * Javascript
-* Ethereum Blockchain (plat-form).
+* Ethereum Blockchain (platform).
 
 
 ![WhatsApp Image 2022-07-16 at 9 40 03 PM](https://user-images.githubusercontent.com/95144222/179366608-15bcd0fc-c8b2-4e22-8cb6-0ac20a96c37f.jpeg)
